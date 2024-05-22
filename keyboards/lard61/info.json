@@ -17,11 +17,11 @@
         "rows": ["GP19", "GP20", "GP21", "GP22", "GP18"]
     },
     "processor": "RP2040",
-    "url": "",
+    "url": "https://github.com/beulard/lard61",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0000",
-        "vid": "0xFEED"
+        "vid": "0xCAFE"
+        "pid": "0xDECA",
     },
     "layouts": {
         "LAYOUT_60_ansi": {
